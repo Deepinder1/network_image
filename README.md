@@ -1,7 +1,6 @@
 # image_from_network
 
-A new Flutter project.
-
+This project made by me picks up network image
 ## Getting Started
 
 This project is a starting point for a Flutter application.
